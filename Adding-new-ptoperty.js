@@ -1,0 +1,1 @@
+person.nationality = "Afghan"
