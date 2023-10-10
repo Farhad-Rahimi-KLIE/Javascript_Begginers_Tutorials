@@ -1,0 +1,1 @@
+variable name = (condation) ? value1:value2
