@@ -1,4 +1,3 @@
-//objectname.propertyname
-//objectname["propertyname"];
-
-person.lastname
+objectName.property
+objectname[property]
+objectname[expression]
