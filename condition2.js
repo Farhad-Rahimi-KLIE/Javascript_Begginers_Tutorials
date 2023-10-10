@@ -1,0 +1,1 @@
+var notable = (age<18) ? "Too Young": "Old enough"
