@@ -1,3 +1,4 @@
+// javascript call method
 var person = {
  fullname : function(){ 
   return this.firstname + " " + this.lastname;
