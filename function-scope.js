@@ -1,3 +1,4 @@
+// function scope
 // code here can not use carname
 function myfunction(){
  var carname = "Volvo";
