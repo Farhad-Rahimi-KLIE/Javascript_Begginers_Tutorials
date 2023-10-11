@@ -1,3 +1,4 @@
+// local Variable
 //code here can not use carname
 function myfunc (){
  var cardname = "Volvo";
