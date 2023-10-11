@@ -1,4 +1,4 @@
-to String method
+// to String method
 var x =123;
 x.toString()
 (123).toString();
