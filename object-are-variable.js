@@ -1,4 +1,4 @@
-// object are variable
+// object are variables
 var person = "farhad klie"
 var person = {
  name : "farhad",
