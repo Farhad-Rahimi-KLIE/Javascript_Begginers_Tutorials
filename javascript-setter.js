@@ -1,3 +1,4 @@
+// javascript setter
 var person = {
  firstname : "Farhad",
  lastname : "Rahimi Klie",
