@@ -1,3 +1,4 @@
+// do while loop
 do{
  text+="the number is" + i;
  i++;
