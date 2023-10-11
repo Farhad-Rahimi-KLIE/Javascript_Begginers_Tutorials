@@ -1,3 +1,4 @@
+// Switch Case Statement
 switch(condation){
  case x:
  // code block
