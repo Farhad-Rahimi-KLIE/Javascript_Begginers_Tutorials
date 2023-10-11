@@ -1,3 +1,4 @@
+// Global function
 var x = myfunction()
 
 function myfunction(){
