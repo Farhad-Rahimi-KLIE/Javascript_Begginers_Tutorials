@@ -1,2 +1,2 @@
-var cars = ["volvo","cars","Swift"];
+var cars = ["Volvo","Cars","Swift"];
 document.getElementById("demo").innerHTML = cars[0]
