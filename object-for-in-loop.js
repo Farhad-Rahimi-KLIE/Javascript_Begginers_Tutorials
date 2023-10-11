@@ -1,3 +1,4 @@
+// object for in loop
 var person = {
  name : "Farhad",
  fname: "Rahimi Klie",
