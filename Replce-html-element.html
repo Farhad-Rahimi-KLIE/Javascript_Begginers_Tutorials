@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<div id="div1">
+ <p id="p1">this is paragraph</p>
+ <p id="p2">this is paragrapg</p>
+</div>
+<script>
+var para = document.createElement("p");
+var node = document.createTextNode("This is new")
+para.appendChild(node)
+ var parent = document.getElementById("div1");
+ var child = document.getElementById("p1");
+ parent.removeChild(child)
+</script>
+</body>
+</html>
