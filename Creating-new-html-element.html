@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Creating new Html element</title>
+</head>
+<body>
+<div id="div1">
+ <p id="p1">Hello World is best</p>
+ <p id="p2">Hello World our world</p>
+</div>
+<script>
+ var para = document.createElement("p");
+ var node = document.createTextNode("This is New.")
+ para.appendChild(node)
+ 
+ var element = document.getElementById("div1");
+ element.appendChild(para)
+</script>
+</body>
+</html>
