@@ -1,3 +1,3 @@
 /*
- the HTML DOM (Document Object Module)
+ The HTML DOM (Document Object Module)
 */
