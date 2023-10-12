@@ -1,3 +1,6 @@
+/*
+Create AnimTuon
+*/
 function myMove(){
  let elem = document.getElementById("animate")
  let pos = 0;
