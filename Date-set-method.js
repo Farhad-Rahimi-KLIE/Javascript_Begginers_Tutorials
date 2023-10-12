@@ -1,4 +1,4 @@
-// Date Set Method
+//javascript Date Set Method
 setDate()
 setFullYear()
 setHours()
