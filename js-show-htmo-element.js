@@ -1,2 +1,2 @@
-// javascript show html elements
+// Javascript show html elements
 document.getElementById("demo").style.display="block";
