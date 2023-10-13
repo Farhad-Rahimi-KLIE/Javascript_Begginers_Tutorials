@@ -1,4 +1,4 @@
-// comparison Operator
+//javascript comparison Operator
 /*
  ==  equal to
  === equal value and equal type
