@@ -1,4 +1,4 @@
-// javascript function and greater
+// javascript functions and greater
 var person = {
  firstname : "Farhad",
  lastname : "Rahimi Klie",
