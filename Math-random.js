@@ -1,3 +1,3 @@
-// Math random
+//javascript Math random
 var a = Math.random()
 console.log(a)
