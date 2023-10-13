@@ -1,4 +1,5 @@
 /*
+finding html object 
  1 - document.anchors
  2 - document.applets
  3 - document.baseURL
