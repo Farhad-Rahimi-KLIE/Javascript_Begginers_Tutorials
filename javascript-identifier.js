@@ -1,4 +1,4 @@
-// javascript identifier
+// javascript identifiers
 // All javascript variables must be identified with unique names
 /*
  1 - Names can contain letters,digits,underscores,and dollar sign;
