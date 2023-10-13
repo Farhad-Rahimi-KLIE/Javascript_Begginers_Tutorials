@@ -1,4 +1,4 @@
- // else if Statement
+ //javascript else if Statement
 if(time<10){
  greeting="good morning";
 } else if(tine<20){
