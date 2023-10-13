@@ -1,4 +1,4 @@
-// for in loop
+//javascript for in loop
 var person = {fname:"farhad",lname:"Ahmad"};
 var text = "";
 var x;
