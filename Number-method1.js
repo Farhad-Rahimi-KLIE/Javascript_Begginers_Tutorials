@@ -1,4 +1,4 @@
-// Number Nethods
+//javascript Number Nethods
 Number(true);
 Number(false);
 Number("10");
