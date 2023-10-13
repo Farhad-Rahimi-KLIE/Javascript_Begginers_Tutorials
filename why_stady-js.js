@@ -1,4 +1,4 @@
-// why study javascript
+// why Study javascript
 /*
  javascript is one of the 3 languages all
  web developers must learn:
