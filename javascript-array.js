@@ -1,2 +1,2 @@
-// javascript array
+// javascript arrays
 var cars = ["sub","Volvo","BMW"]
