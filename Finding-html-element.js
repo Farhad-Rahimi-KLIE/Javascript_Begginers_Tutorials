@@ -1,3 +1,6 @@
+/*
+ finding html elements 
+*/
 1 - finding html elements by id
 2 - finding html elements by tag name
 3 - finding html elements by class name
