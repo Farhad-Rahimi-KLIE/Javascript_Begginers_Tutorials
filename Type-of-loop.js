@@ -1,4 +1,4 @@
-// type of loops
+//javascript type of loops
 /*
  1 - for loop
  2 - while loop
