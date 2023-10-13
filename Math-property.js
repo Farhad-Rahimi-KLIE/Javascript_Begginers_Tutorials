@@ -1,4 +1,4 @@
-// Math Property
+//javascript Math Property
 /*
  1 - Math.E
  2 - Math.PI
