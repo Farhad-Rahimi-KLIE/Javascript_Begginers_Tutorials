@@ -1,4 +1,4 @@
-// global scope
+//javascript global scope
 var carname = "Volvo";
 // code here can use car name
 function myfunction(){
