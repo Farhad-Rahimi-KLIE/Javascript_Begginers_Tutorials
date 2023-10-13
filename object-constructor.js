@@ -1,4 +1,4 @@
-// object Constructor
+//javascript object Constructor
 new Object()
 new String()
 new Number()
