@@ -1,4 +1,4 @@
-// object prototype
+//javascript object prototype
 function person(first,last,age,eyecolor){
  this.firstname = first;
  this.lastname = last;
