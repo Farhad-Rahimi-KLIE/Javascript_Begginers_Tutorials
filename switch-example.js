@@ -1,4 +1,4 @@
-// Switch Case Statement example
+//javascript Switch Case Statement example
 switch(new Date().getday()){
  case 0:
  day = "monday";
