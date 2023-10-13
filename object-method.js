@@ -1,4 +1,4 @@
-// object method
+//javascript object method
 var person = {
  firstname : "Farhad",
  lastname : "Rahimi Klie",
