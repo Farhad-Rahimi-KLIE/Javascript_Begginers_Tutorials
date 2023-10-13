@@ -1,4 +1,4 @@
-// javascript keyboard
+// Javascript keyboard
 /*
  . javascript have a reserved keywords
  1 - break;
