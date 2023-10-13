@@ -1,4 +1,4 @@
-// object property
+//javascript object property
 /*
  Property          Property Value
   firstname           farhad
