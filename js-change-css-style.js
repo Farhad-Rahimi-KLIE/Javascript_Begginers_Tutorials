@@ -1,2 +1,2 @@
-// javascript change css style
+// Javascript change css style
 document.getElementById("demo").style.fontSize ="20px";
