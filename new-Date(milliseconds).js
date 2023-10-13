@@ -1,2 +1,2 @@
-// new Date milliseconds
+//javascript new Date milliseconds
 var d = new Date(0)
