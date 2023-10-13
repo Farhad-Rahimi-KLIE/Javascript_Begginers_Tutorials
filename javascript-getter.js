@@ -1,4 +1,4 @@
-// javascript greater
+// javascript greater function 
 var person = {
  firstname : "Farhad",
  lastname : "Rahimi Klie",
