@@ -1,4 +1,4 @@
-// object
+//javascript object
 var car = "Fiat";
 var car = {
  name : "Farhad",
