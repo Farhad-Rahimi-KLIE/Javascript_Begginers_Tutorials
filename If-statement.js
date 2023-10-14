@@ -1,4 +1,4 @@
-//javascript If Statement 
+//Javascript If Statement 
 if(condation){
  // Code paste here
 }
