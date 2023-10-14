@@ -1,5 +1,5 @@
 /*
- finding html elements 
+ finding HTML elements 
 */
 1 - finding html elements by id
 2 - finding html elements by tag name
