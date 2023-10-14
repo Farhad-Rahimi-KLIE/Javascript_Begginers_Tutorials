@@ -1,3 +1,3 @@
-//javascript Deleting Elements
+//Javascript Deleting Elements
 var cars = ["Volvo","Swift","Tada"];
 delete cars[1]
