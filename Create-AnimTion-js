@@ -1,5 +1,5 @@
 /*
-Create AnimTuon
+Create Animation
 */
 function myMove(){
  let elem = document.getElementById("animate")
