@@ -1,1 +1,2 @@
+// JSON Booleans
 {sale:true}
