@@ -1,4 +1,4 @@
-//javascript Global function
+//Javascript Global function
 var x = myfunction()
 
 function myfunction(){
