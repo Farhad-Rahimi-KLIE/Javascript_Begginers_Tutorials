@@ -1,0 +1,1 @@
+xhttp.open("GET","ajax_info.txt",false)
