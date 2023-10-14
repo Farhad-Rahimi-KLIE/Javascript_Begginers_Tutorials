@@ -1,0 +1,1 @@
+delete myobj.cars.car2
