@@ -1,4 +1,5 @@
 // Storing Data
+// Storing Data
 var myjson = '{name : "farhad", fname:"Rahimi"}';
 var myobj = JSON.stringify(myjson);
 LocalStorage.setItem("testJSON",myobj);
