@@ -1,0 +1,1 @@
+variable = new ActiveXObject("Microsoft.XMLHttp")
