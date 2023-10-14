@@ -1,2 +1,2 @@
-JSON Array2
+// JSON Array2
 ["food","wwe"]
