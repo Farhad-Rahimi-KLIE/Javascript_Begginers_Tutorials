@@ -1,4 +1,4 @@
-// javascript  Switch Case Statement
+// Javascript  Switch Case Statement
 switch(condation){
  case x:
  // code block
