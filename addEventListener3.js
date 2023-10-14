@@ -1,4 +1,4 @@
-// addEventListener 3
+//javascript addEventListener 3
 element.addEventListener("click",myfunction)
 
 function myfunction(){
