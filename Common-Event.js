@@ -1,4 +1,4 @@
-//javascript Common Event
+//Javascript Common Event
 /*
  1 - onchange
  2 - onclick
