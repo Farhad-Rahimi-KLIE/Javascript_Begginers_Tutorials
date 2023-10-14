@@ -1,3 +1,3 @@
-// javascript Math Method
+// Javascript Math Method
 var a = Math.PI;
 console.log(a)
