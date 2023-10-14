@@ -1,4 +1,4 @@
-//javascript Array every
+//Javascript Array every
 var number = [45,4,9,16,25];
 var allOver18 = number.every(myfunc)
 
