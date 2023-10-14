@@ -1,0 +1,1 @@
+var obj = {name : "Farhad",Fname:"Rahimi"}
