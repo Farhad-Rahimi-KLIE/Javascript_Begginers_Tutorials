@@ -1,3 +1,3 @@
-// Accessing-object-value
+// Accessing-object-Value
 myobj = {name:"Farhad",age:"23"}
 x = myobj.name
