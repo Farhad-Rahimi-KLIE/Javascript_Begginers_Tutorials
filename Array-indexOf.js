@@ -1,3 +1,3 @@
-//javascript Array indexOf
+//Javascript Array indexOf
 var fruits = ["banana","lemon","ananace","banana"];
 var a = fruits.indexOf("banana")
