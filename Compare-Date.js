@@ -1,4 +1,4 @@
-//javascript Compare Date
+//Javascript Compare Date
 var today, someday, text;
 today = new Date()
 someday = new Date();
