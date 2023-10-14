@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<p id="demo"></p>
+<button onclick="setInterval(myvar)">Stop Time</button>
+<script>
+ var myvar = setInterval(myvar,3000);
+ function myvar(){
+  var d = new Date()
+  document.getElementById("demo").innerHTML = toLocaleTimeString()
+ }
+</script>
+</body>
+</html>
