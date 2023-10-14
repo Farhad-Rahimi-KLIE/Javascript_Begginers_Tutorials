@@ -1,4 +1,4 @@
-//javascript Form-Validation
+//Javascript Form-Validation
 function validateForm(){
  var x = document.forms["myform"]["fname"].value;
  if(x == ""){
