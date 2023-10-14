@@ -1,4 +1,4 @@
-//javascript Commints
+//javascript Comments
 // Single line comments
 /*
  this is
