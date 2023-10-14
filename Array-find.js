@@ -1,4 +1,4 @@
-//javascript Array-fund
+//Javascript Array-fund
 var number = [45,4,9,16,25];
 var first = number.find(myfunc)
 
