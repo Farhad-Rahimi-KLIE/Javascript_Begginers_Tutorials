@@ -1,2 +1,2 @@
-//javascript Arrow Function with parameter 
+//Javascript Arrow Function with parameter 
 hello = (val)=> "Hello World" + val;
