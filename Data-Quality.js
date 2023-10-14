@@ -1,4 +1,4 @@
-//javascript Data Quality
+//Javascript Data Quality
 var person = {
  firstname : "Farhad",
  lastname : "Rahimi Klie",
