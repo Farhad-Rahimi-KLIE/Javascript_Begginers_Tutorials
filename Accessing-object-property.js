@@ -1,4 +1,4 @@
-// Access object Property
+// access object Property
 objectName.property
 objectname[property]
 objectname[expression]
