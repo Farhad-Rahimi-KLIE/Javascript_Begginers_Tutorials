@@ -1,4 +1,4 @@
-//javascript Arrow Function 
+//Javascript Arrow Function 
 var x = function(x,y){
  return x*y;
 } 
