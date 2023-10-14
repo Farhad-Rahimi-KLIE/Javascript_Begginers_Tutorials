@@ -1,4 +1,4 @@
-//javascript prototype Property
+//Javascript prototype Property
 function person(first,last,age,eyecolor){
  this.firstname = first;
  this.lastname = last;
