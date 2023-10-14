@@ -1,4 +1,4 @@
-//JAVASCRIPT String
+//JAVASCRIPT string
 var x = "hello world"
 
 var str1 = "hello";
