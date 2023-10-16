@@ -1,2 +1,2 @@
-// Browser Online
+// vrowser Online
 document.getElementById("demo").innerHTML = navigator.online;
