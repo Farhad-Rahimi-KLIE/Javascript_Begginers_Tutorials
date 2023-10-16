@@ -1,4 +1,4 @@
-//Javascript Array Reduce Method
+//javascript Array Reduce Method
 var number = [45,4,9,16,25];
 var sum = number.reduce(myfunc)
 
