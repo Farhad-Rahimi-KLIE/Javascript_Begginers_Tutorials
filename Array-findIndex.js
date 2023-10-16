@@ -1,4 +1,4 @@
-//Javascript Array findIndex
+//Javascript Array FindIndex
 var number = [1,6,8,88,25];
 var allOver18 = number.findIndex(myfunc)
 
