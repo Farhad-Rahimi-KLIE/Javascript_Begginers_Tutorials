@@ -1,4 +1,4 @@
-// Adding deleting elements 
+// adding deleting elements 
 1 - document.createElement(element)
 2 - document.removeChild(element)
 3 - document.appendChild(element)
