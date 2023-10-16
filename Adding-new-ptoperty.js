@@ -1,2 +1,2 @@
-// adding New property 
+// adding new property 
 person.nationality = "Afghan"
