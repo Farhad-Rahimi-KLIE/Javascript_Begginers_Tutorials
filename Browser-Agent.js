@@ -1,2 +1,2 @@
-// Browser Agent
+// browser Agent
 document.getElementById("demo").innerHTML = navigator.usrrAgent;
