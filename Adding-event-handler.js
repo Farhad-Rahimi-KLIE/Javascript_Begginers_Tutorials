@@ -1,4 +1,4 @@
-// Adding event Handler
+// adding event Handler
 document.getElementById("demo").onclick = function(){
  // Code to be executed
 }
