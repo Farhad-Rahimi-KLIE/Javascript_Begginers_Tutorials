@@ -1,4 +1,4 @@
-//Javascript Array Reduce Right
+//javascript Array Reduce Right
 var number = [45,4,9,16,25];
 var sum = number.reduceRight(myfunc)
 
