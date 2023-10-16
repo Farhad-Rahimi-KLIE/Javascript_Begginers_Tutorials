@@ -1,4 +1,4 @@
-//Javascript Associated Array
+//javascript Associated Array
 var person = [];
 person[0] = "jhon";
 person[1]= "farhad";
