@@ -1,4 +1,4 @@
-// Ajax Function 
+// ajax Function 
 function loadDic(){
  var xhttp = new XMLHttpRequest();
  xhttp.onreadystatechange = function(){
