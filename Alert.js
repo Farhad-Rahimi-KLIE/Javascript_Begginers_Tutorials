@@ -1,2 +1,2 @@
-// Alert box
+// Alert Box
 alert("This is alert box")
