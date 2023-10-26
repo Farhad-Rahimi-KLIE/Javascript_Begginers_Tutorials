@@ -1,4 +1,4 @@
-// Animation code
+// Animation Code
 var id = setInterval(frame,5);
 
 function frame(){
