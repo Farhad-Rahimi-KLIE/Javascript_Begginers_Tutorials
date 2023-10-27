@@ -1,3 +1,4 @@
+// javascript Tutorials 
 //Javascript Global function
 var x = myfunction()
 
