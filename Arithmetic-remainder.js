@@ -1,4 +1,5 @@
- // Javascript Arithmetic Remailder
+// javascript Tutorials 
+// Javascript Arithmetic Remailder
 var x = 10;
 var y = 5;
 console.log(x%y)
