@@ -1,3 +1,4 @@
+// javascript Tutorials 
 // Javascript Map Method
 var number = [45,4,9,16,25];
 var number2 = number.map(myfunc)
