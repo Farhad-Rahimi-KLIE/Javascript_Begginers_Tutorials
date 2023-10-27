@@ -1,4 +1,5 @@
 /*
+javascript Tutorials 
 finding HTML object 
  1 - document.anchors
  2 - document.applets
