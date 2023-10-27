@@ -1,3 +1,4 @@
+// javascript Tutorials 
 // Javascript Arithmetic Exponentation
 var a = 20;
 a**2;
