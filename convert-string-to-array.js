@@ -1,3 +1,4 @@
+// javascript Tutorials 
 //javascript convert string to array
 var text = "a,b,c,,d";
 text.split(",");
