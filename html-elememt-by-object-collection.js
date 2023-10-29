@@ -1,3 +1,4 @@
+// javascript Tutorials 
 // html element by object
 var x = document.forms["frm1"];
 var text = "";
