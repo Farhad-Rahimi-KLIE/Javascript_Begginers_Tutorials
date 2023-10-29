@@ -1,3 +1,4 @@
+// javascript Tutorials 
 //javascript object are variables
 var person = "farhad klie"
 var person = {
