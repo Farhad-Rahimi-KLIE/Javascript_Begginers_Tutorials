@@ -1,3 +1,4 @@
+// javascript Tutorials 
 //javascript object method
 var person = {
  firstname : "Farhad",
