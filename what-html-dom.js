@@ -1,4 +1,5 @@
 /*
+javascript Tutorials 
 javascript 
  1 - the html element as object
  2 - the Property of all html elements 
