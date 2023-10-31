@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 //javascript Associated Array
 var person = [];
 person[0] = "jhon";
