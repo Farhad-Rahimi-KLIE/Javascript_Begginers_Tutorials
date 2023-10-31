@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 // Confirm Box
 if(confirm("press a button")){
  txt = "you pressed ok"
