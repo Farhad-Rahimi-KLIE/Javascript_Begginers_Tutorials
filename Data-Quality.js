@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 //Javascript Data Quality
 var person = {
  firstname : "Farhad",
