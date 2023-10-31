@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 // Ajax Function 
 function loadDic(){
  var xhttp = new XMLHttpRequest();
