@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 //Javascript Common Event
 /*
  1 - onchange
