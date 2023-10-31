@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 // External Javascript
 function myfunc(){
  document.getElementById("demo").innerHTML ="Paragraph changed"
