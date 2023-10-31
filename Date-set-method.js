@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 //Javascript Date Set Method
 setDate()
 setFullYear()
