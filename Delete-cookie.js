@@ -1,3 +1,3 @@
-// javascript Tutorials 
+// javascript Tutorials
 // Delete Cookie
 document.cookie = "username=; expires=thus,"
