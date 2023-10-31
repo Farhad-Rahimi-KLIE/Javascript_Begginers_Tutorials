@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 //Javascript prototype Property
 function person(first,last,age,eyecolor){
  this.firstname = first;
