@@ -1,3 +1,3 @@
-// javascript Tutorials 
+// javascript Tutorials
 //Javascript ISO Date
 var d = new Date("2015-03")
