@@ -1,3 +1,3 @@
-// javascript Tutorials 
+// javascript Tutorials
 // Dom Programming Interface
 document.getElementById("demo").innerHTML = "Hello World";
