@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 //Javascript Array Filter
 var number = [45,4,9,16,25];
 var over18 = number.filter(myfunction)
