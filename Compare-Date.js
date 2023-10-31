@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 //Javascript Compare Date
 var today, someday, text;
 today = new Date()
