@@ -1,3 +1,3 @@
-// javascript Tutorials 
+// javascript Tutorials
 // JSON Null
 {middlename:null}
