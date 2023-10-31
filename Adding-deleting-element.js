@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 // Adding deleting elements 
 1 - document.createElement(element)
 2 - document.removeChild(element)
