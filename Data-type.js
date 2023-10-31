@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 //Javascript Data Type
 var length = 10; //Number
 var lastname = "hello";  //String
