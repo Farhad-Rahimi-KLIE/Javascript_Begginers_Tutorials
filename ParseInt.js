@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 //Javascript ParseInt
 parseInt("10");
 parseInt("10.877")
