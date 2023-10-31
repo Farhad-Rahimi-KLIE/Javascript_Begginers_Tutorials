@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 //Javascript Form-Validation
 function validateForm(){
  var x = document.forms["myform"]["fname"].value;
