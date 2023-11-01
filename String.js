@@ -1,4 +1,4 @@
-// Javascript Tutorials 
+// Javascript Tutorials
 //JAVASCRIPT string
 var x = "hello world"
 
