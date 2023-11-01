@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 //javascript Case Sensitive
 //All javascript identifiers are case Sensitive
 var lastname, ladtName;
