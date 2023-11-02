@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 //javascript deleting Property
 var person = {
  name : "Farhad",
