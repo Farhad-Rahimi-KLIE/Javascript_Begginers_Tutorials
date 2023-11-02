@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 //javascript else if Statement
 if(time<10){
  greeting="good morning";
