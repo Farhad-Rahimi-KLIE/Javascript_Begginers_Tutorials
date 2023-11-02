@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 // javascript do while loop
 do{
  text+="the number is" + i;
