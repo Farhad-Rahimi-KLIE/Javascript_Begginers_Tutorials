@@ -1,3 +1,3 @@
-// javascript Tutorials 
+// javascript Tutorials
 // finding html elements by id
 let myElement = document.getElementById("demo");
