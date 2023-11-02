@@ -1,3 +1,3 @@
-// javascript Tutorials 
+// javascript Tutorials
 //javascript Event
 <element event="some javascript">
