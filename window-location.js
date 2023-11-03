@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 /*
  1 - window.location.href
  2 - window.location.hostname
