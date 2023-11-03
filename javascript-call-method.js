@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 // javascript call methods
 var person = {
  fullname : function(){ 
