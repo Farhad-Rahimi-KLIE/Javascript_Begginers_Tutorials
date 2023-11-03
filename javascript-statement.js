@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 // Javascript Statement
 var x, y, z;  //Statement1
 x = 5;       // Sstatement2
