@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 // Javascript booleans
 var x = 10;
 var y= 20;
