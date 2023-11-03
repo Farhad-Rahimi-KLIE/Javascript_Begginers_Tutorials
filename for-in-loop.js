@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 //javascript for in loop
 var person = {fname:"farhad",lname:"Ahmad"};
 var text = "";
