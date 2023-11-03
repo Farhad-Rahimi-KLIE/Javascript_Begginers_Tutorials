@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 // javascript functions and greater
 var person = {
  firstname : "Farhad",
