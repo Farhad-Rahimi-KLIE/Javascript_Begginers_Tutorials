@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 //javascript object prototype
 function person(first,last,age,eyecolor){
  this.firstname = first;
