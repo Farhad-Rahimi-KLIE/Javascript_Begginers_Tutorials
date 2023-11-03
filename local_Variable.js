@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 // local variable
 //code here can not use carname
 function myfunc (){
