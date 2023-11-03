@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 //javascript object for in loop
 var person = {
  name : "Farhad",
