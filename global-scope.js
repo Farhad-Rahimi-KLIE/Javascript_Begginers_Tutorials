@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 //javascript global scope
 var carname = "Volvo";
 // code here can use car name
