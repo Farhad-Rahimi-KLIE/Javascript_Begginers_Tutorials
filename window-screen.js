@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 /*
 1 - screen.width
 2 - screen.height
