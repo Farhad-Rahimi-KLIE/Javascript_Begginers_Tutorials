@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 // why Study javascript
 /*
  javascript is one of the 3 languages all
