@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 /*
  navigator.appName
  navigator.appCodeName
