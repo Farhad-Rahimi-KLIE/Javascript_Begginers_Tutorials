@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 //javascript semicolens
 var a, b, c;
 a = 5;
