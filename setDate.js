@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 //javascript setDate
 var d = new Date();
 d.setDate(15);
