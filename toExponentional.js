@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 //javascript toExponentional
 var x = 8.876;
 x.toExponential(2)
