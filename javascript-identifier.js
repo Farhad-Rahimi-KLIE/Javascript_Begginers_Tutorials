@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 // javascript identifiers
 // All javascript variables must be identified with unique names
 /*
