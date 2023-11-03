@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 //javascript object Constructor
 new Object()
 new String()
