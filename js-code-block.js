@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 // Javascript code block
 function myfunc(){
  document.getElementById("demo").innerHTML = "Hello Farhad";
