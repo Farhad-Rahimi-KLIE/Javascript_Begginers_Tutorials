@@ -1,4 +1,4 @@
-// javascript Tutorials 
+// javascript Tutorials
 // javascript greater function 
 var person = {
  firstname : "Farhad",
