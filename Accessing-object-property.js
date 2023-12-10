@@ -1,4 +1,4 @@
-// javascript Tutorials
+// Javascript Tutorials
 // Access object property
 objectName.property
 objectname[property]
