@@ -1,4 +1,4 @@
-// javascript Tutorials
+// Javascript Tutorials
 //Javascript  Arithmetic Su substracing
 var x = 10;
 var y = 5;
