@@ -1,4 +1,4 @@
-// javascript Tutorials
+// Javascript Tutorials
 // javascript Arithmetic Adding
 var x = 10;
 var y = 5;
