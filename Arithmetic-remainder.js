@@ -1,4 +1,4 @@
-// javascript Tutorials
+// Javascript Tutorials
 // Javascript Arithmetic Remailder
 var x = 10;
 var y = 5;
